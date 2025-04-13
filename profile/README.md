@@ -7,11 +7,13 @@
 *Enterprise-Grade AI Compliance Agent for GDPR & Social Engineering Threats*
 
 ---
+### 📂 Links
+
+<a href="https://github.com/Trustlayer-Labs/T-Labs" style="font-weight: bold; color: blue; font-size: 1.2em;">PROJECT REPO: https://github.com/Trustlayer-Labs/T-Labs</a>
+
+<a href="https://youtu.be/apnxMRFoUbw" style="font-weight: bold; color: blue; font-size: 1.2em;">Video: https://youtu.be/apnxMRFoUbw</a>
 
 ## 📈 Project Overview
-
-PROJECT REPO: https://github.com/Trustlayer-Labs/T-Labs
-
 
 
 **Trustlayer Labsl** is a stateful, multi-channel compliance monitoring system powered by the **Portia AI SDK**. It acts as an intelligent layer of protection across your organisation's internal communications — detecting policy violations, preventing sensitive data leaks, and flagging suspicious behavioural patterns such as social engineering attempts.
