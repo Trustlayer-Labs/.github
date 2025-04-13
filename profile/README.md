@@ -9,9 +9,9 @@
 ---
 ### 📂 Links
 
-<a href="https://github.com/Trustlayer-Labs/T-Labs" style="font-weight: bold; color: blue; font-size: 1.2em;">PROJECT REPO: https://github.com/Trustlayer-Labs/T-Labs</a>
+<a href="https://github.com/Trustlayer-Labs/T-Labs" style="font-weight: bold; color: blue; font-size: 1.2em;">Project Repo</a>
 
-<a href="https://youtu.be/apnxMRFoUbw" style="font-weight: bold; color: blue; font-size: 1.2em;">Video: https://youtu.be/apnxMRFoUbw</a>
+<a href="https://youtu.be/apnxMRFoUbw" style="font-weight: bold; color: blue; font-size: 1.2em;">Video Demo</a>
 
 ## 📈 Project Overview
 
