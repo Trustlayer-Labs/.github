@@ -10,6 +10,10 @@
 
 ## 📈 Project Overview
 
+PROJECT REPO: https://github.com/Trustlayer-Labs/T-Labs
+
+
+
 **Trustlayer Labsl** is a stateful, multi-channel compliance monitoring system powered by the **Portia AI SDK**. It acts as an intelligent layer of protection across your organisation's internal communications — detecting policy violations, preventing sensitive data leaks, and flagging suspicious behavioural patterns such as social engineering attempts.
 
 It not only monitors **Slack**, **meeting transcripts**, and (optionally) **email**, but also utilises powerful LLMs to provide explainable, contextual, and actionable risk analysis. The system simulates the workflow of an enterprise-grade compliance officer: observe, assess, escalate if needed — all with full transparency and human oversight.
