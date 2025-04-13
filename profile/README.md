@@ -2,6 +2,19 @@
 
 **Enterprise-Grade AI Compliance Agent for GDPR & Social Engineering Threats**
 
+
+
+
+**INSERT IMAGE HERE**
+
+
+
+
+
+
+
+
+
 ---
 
 ## 📈 Project Overview
