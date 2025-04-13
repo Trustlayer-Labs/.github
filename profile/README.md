@@ -1,19 +1,10 @@
 # Trustlayer Labs
-
-**Enterprise-Grade AI Compliance Agent for GDPR & Social Engineering Threats**
-
-
-
-
-![Alt text](../TL%20LABS%201.png)
+---
 ![Alt text](../TL%20LABS%202.png)
+![Alt text](../TL%20LABS%201.png)
 
 
-
-
-
-
-
+*Enterprise-Grade AI Compliance Agent for GDPR & Social Engineering Threats*
 
 ---
 
